@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<FILE path="./pages/New_Task.htm">
+<HIGHLIGHT index="1">
+<START_POS>250</START_POS>
+<END_POS>319</END_POS>
+<TEXT>Things are in flux. I have talked to Jason about what we will need on</TEXT>
+</HIGHLIGHT>
+<HIGHLIGHT index="2">
+<START_POS>669</START_POS>
+<END_POS>874</END_POS>
+<TEXT>What is harder is later allowing the user to come back to the text and say "show me all the text I highlighted". I believe this will require matching text with what you have saved and then highlighting it.</TEXT>
+</HIGHLIGHT>
+</FILE>
